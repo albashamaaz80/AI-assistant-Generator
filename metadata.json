@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Social Post Generator",
+  "description": "An AI-powered app to generate tailored social media posts for LinkedIn, Twitter/X, and Instagram. Input an idea and a tone, and get platform-specific text and images with optimal aspect ratios.",
+  "requestFramePermissions": []
+}
